@@ -8,3 +8,5 @@ Before running it:
 &nbsp;&nbsp;&nbsp;&nbsp;--For example, if you're using "deepseek/deepseek-r1-distill-qwen-32b", then the name of your folder should be "deepseek".  
   
 Then, you can run the code without any problems. :)  
+
+By the way, **cipherchat** is the folder has the original code from the paper.
