@@ -1,5 +1,5 @@
 This code should be run in Google colab platform.
-\n
+
 Before running it:
 First, you need to upload the data file into colab. 
 Second, you need to create a fold called "log" under the same directory, and then create a folder with the same name as your chosen model under "log" directory.
